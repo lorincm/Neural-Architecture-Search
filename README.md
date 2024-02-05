@@ -17,7 +17,7 @@ more time to train and develop. We defined the objective function with the penal
 where lambda is a normalization value, for which we binded the value of 0.01, Np is the number of
 weights of the CNN that we try to calculate the current objective for and Nmax is the variable
 denoting the number of weights of the largest possible CNN, which can be constructed from our
-initial hyper parameters. da
+initial hyper parameters. 
 
 ### Results
 
